@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Professor in Cyberspace Institute of Advanced Technology, Guangzhou Univerisity, Guangzhou, China. I obtained Ph.D. degree in Computer Science from City University of Hong Kong (CityU) in Feb., 2019, supervised by Prof. <a href='https://www.cs.cityu.edu.hk/~jia/'>Xiaohua Jia</a> , M.Eng. degree in Computer Science and Technology under Prof. <a href='https://www.cs.cityu.edu.hk/~jia/'>Zhangjie Fu</a>, and B.Eng. degree in Network Technology and Engineering from Nanjing University of Information Science & Technology in 2015 and 2012, respectively. I have served as a Research Assistant at Singapore Management University under Prof. <a href='http://www.mysmu.edu/faculty/robertdeng/'>Robert H. Deng</a>, a Postdoctoral Fellow & Associate Researcher at City University of Hong Kong, and an assitant Researcher & Associate Researcher at Peng Cheng Laboratory.
+I am currently a Professor in Cyberspace Institute of Advanced Technology, Guangzhou Univerisity, Guangzhou, China. I obtained Ph.D. degree in Computer Science from City University of Hong Kong (CityU) in Feb., 2019, supervised by Prof. <a href='https://www.cs.cityu.edu.hk/~jia/'>Xiaohua Jia</a> , M.Eng. degree in Computer Science and Technology under Prof. <a href='https://faculty.nuist.edu.cn/zhangjiefu/zh_CN/index.htm'>Zhangjie Fu</a>, and B.Eng. degree in Network Technology and Engineering from Nanjing University of Information Science & Technology in 2015 and 2012, respectively. I have served as a Research Assistant at Singapore Management University under Prof. <a href='http://www.mysmu.edu/faculty/robertdeng/'>Robert H. Deng</a>, a Postdoctoral Fellow & Associate Researcher at City University of Hong Kong, and an assitant Researcher & Associate Researcher at Peng Cheng Laboratory.
 
 My research interest includes data & AI security and privacy, applied cryptography, cloud computing & crowdsourcing security, network security. I have published more than 40 papers in international journals and conferences such as IEEE TDSC, TIFS, TPDS, TSC, TITS, IOTJ, and TCC, with one paper awarded the Best Paper Award at IEEE MSN 2021.
 
-
+/*
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*/
 
 # 📝 Publications 
 
@@ -46,13 +47,16 @@ My research interest includes data & AI security and privacy, applied cryptograp
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+/*
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2012.06 - 2015.06 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2008.09 - 2012.06*, , consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*/
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+/*
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+*/
