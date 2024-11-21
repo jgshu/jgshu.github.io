@@ -93,11 +93,11 @@ computing. *IEEE Internet of Things Journal*, 11(2): 1866-1879, 2024.
 - *2018* Excellent Research Award, The 14th International Conference of ADMA, Nanjing
 - *2017* Outstanding Poster Award, Department of CS, City University of Hong Kong, Hong Kong
 
-<!--
+
 # 📖 Educations
 - *2012.06 - 2015.06 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2008.09 - 2012.06*, , consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+
 
 <!--
 # 💬 Invited Talks
