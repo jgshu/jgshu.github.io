@@ -129,7 +129,7 @@ computing. *IEEE Internet of Things Journal*, 11(2): 1866-1879, 2024.
 - Zhiping Hu, GZU 2024, Privacy-preserving computing
 - Bangquan Wang, GZU 2024, FL attacks
 - Xiangjie Long, GZU 2024, Zero-knowledge proof of FL, copyright protection
-- Xinling Fu, GZU 2024, FL unlearning
+- Xinglin Fu, GZU 2024, FL unlearning
 - Kaiqi Wang, GZU 2023, FL defenses (together with Prof. Qingfen Tan)
 
 ## Gruduates ##
