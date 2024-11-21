@@ -71,7 +71,7 @@ computing. *IEEE Internet of Things Journal*, 11(2): 1866-1879, 2024.
 
 
 
-## Conference ##
+## Conferences ##
 
 - Guoxi Zhang, **Jiangang Shu\*** and Xiaohua Jia. Optimized Client-Side Detection of Model Poisoning Attacks in Federated Learning. *IEEE HPCC 2022*.
 - Jijia Yang, **Jiangang Shu\***, Xiaohua Jia. Breaking Distributed Backdoor Defenses for Federated Learning in Non-IID Settings. *IEEE MSN 2022*. 
