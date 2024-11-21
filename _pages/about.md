@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Professor \& PhD Supervisor in Cyberspace Institute of Advanced Technology, Guangzhou Univerisity, Guangzhou, China. I obtained Ph.D. degree in Computer Science from City University of Hong Kong (CityU) in Feb., 2019, supervised by Prof. <a href='https://www.cs.cityu.edu.hk/~jia/'>Xiaohua Jia</a> , M.Eng. degree in Computer Science and Technology under Prof. <a href='https://faculty.nuist.edu.cn/zhangjiefu/zh_CN/index.htm'>Zhangjie Fu</a>, and B.Eng. degree in Network Technology and Engineering from Nanjing University of Information Science \& Technology in 2015 and 2012, respectively. I have served as a Research Assistant at Singapore Management University under Prof. <a href='http://www.mysmu.edu/faculty/robertdeng/'>Robert H. Deng</a>, a Postdoctoral Fellow & Associate Researcher at City University of Hong Kong, and an assitant Researcher & Associate Researcher at Peng Cheng Laboratory.
+I am currently a Professor & PhD Supervisor in Cyberspace Institute of Advanced Technology, Guangzhou Univerisity, Guangzhou, China. I obtained Ph.D. degree in Computer Science from City University of Hong Kong (CityU) in Feb., 2019, supervised by Prof. <a href='https://www.cs.cityu.edu.hk/~jia/'>Xiaohua Jia</a> , M.Eng. degree in Computer Science and Technology under Prof. <a href='https://faculty.nuist.edu.cn/zhangjiefu/zh_CN/index.htm'>Zhangjie Fu</a>, and B.Eng. degree in Network Technology and Engineering from Nanjing University of Information Science & Technology in 2015 and 2012, respectively. I have served as a Research Assistant at Singapore Management University under Prof. <a href='http://www.mysmu.edu/faculty/robertdeng/'>Robert H. Deng</a>, a Postdoctoral Fellow & Associate Researcher at City University of Hong Kong, and an assitant Researcher & Associate Researcher at Peng Cheng Laboratory.
 
 
-My research interest includes data \& AI security and privacy, applied cryptography, cloud computing \& crowdsourcing security, network security. I have published more than 40 papers in international journals and conferences such as IEEE TDSC, TIFS, TPDS, TSC, TITS, IOTJ, and TCC, with one paper awarded the Best Paper Award at IEEE MSN 2021.
+My research interest includes data & AI security and privacy, applied cryptography, cloud computing & crowdsourcing security, network security. I have published more than 40 papers in international journals and conferences such as IEEE TDSC, TIFS, TPDS, TSC, TITS, IOTJ, and TCC, with one paper awarded the Best Paper Award at IEEE MSN 2021.
 
 <!--
 # 🔥 News
@@ -29,20 +29,60 @@ My research interest includes data \& AI security and privacy, applied cryptogra
 -->
 
 # 📝 Publications 
+## Journals ##
+- Minghui Min, Haopeng Zhu, Shuang Yang, Junhuai Xu, Jingwen Tong, Shiyin Li, and 
+**Jiangang Shu\***. Geo-perturbation for task allocation in 3D mobile crowdsourcing: 
+An A3C-based approach. *IEEE Internet of Things Journal*, 11(2): 1854-1865, 2024.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div></div></div>
-<div class='paper-box-text' markdown="1">
+- Zhichao Lian, **Jiangang Shu\***, Yi Zhang, and Jin Sun. Convergent grey wolf 
+optimizer metaheuristics for scheduling crowdsourcing applications in mobile edge 
+computing. *IEEE Internet of Things Journal*, 11(2): 1866-1879, 2024.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Jiangang Shu**, Tingting Yang, Xinying Liao, Farong Chen, Yao Xiao, Kan Yang, and Xiaohua Jia. Clustered Federated Multi-Task Learning on Non-IID Data with Enhanced Privacy. *IEEE Internet of Things Journal*, 10(4): 3453-3467, 2023.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- Kan Yang\*, **Jiangang Shu\***, and Ruitao Xie. Efficient and Provably Secure Data Selective Sharing and Acquisition in Cloud-based Systems. *IEEE Transactions on Information Forensics and Security*, 18: 71-84, 2022.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Jiangang Shu**, Weizhe Zhang, Ying Zhou, Zhengtao Cheng, and Laurence T. Yang. FLAS: Computation and Communication Efficient Federated Learning via Adaptive Sampling. *IEEE Transactions on Network Science and Engineering*, 9(4): 2003-2014, 2022.
+
+- **Jiangang Shu**, Xing Zou, Xiaohua Jia, Weizhe Zhang, and Ruitao Xie. Blockchain-Based Decentralized  Public Auditing for Cloud Storage. *IEEE Transactions on Cloud Computing*, 10(4): 2366-2380, 2022.
+
+- **Jiangang Shu**, Songlei Wang, Xiaohua Jia, Weizhe Zhang, Ruitao Xie, and Hejiao Huang. Efficient Lane-Level Map Building via Vehicle-Based Crowdsourcing. *IEEE Transactions on Intelligent Transportation Systems*, 22(7):4519 – 4530, 2022. 
+
+- Haining Yu, Xiaohua Jia, Hongli Zhang, **Jiangang Shu**. Efficient and Privacy-Preserving Ride Matching Using Exact Road Distance in Online Ride Hailing Services. *IEEE Transactions on Services Computing*, 15(4): 1841-1854, 2022.
+
+- **Jiangang Shu**, Lei Zhou, Weizhe Zhang, Xiaojiang Du, Mohsen Guizani. Collaborative Intrusion Detection for VANETs: A Deep Learning Based Distributed SDN Approach. *IEEE Transactions on Intelligent Transportation Systems*, 22(7):4519-4530, 2021. 
+
+- **Jiangang Shu**, Kan Yang, Xiaohua Jia, Ximeng Liu, Cong Wang, and Robert H Deng. Proxy-Free Privacy-Preserving Task Matching with Efficient Revocation in Crowdsourcing. *IEEE Transactions on Dependable and Secure Computing*, 18(1): 117-130, 2021.
+
+- **Jiangang Shu**, Xiaohua Jia, Kan Yang, and Hua Wang. Privacy-Preserving Task Recommendation Services for Crowdsourcing. *IEEE Transactions on Services Computing*, 14(1): 235-247, 2021.
+
+- Haining Yu, Xiaohua Jia, Hongli Zhang, Xiangzhan Yu, **Jiangang Shu**. PSRide: Privacy-Preserving Shared Ride Matching for Online Ride Hailing Systems. *IEEE Transactions on Dependable and Secure Computing*, 18(3): 1425-1440, 2021.
+
+- **Jiangang Shu**, Ximeng Liu, Kan Yang, Yinghui Zhang, Xiaohua Jia, and Robert H Deng. SybSub: Privacy-Preserving Expressive Task Subscription with Sybil Detection in Crowdsourcing. *IEEE Internet of Things Journal*, 6(2): 3003-3013, 2019. 
+
+- Haining Yu, **Jiangang Shu**, Xiaohua Jia, Hongli Zhang, Xiangzhan Yu.lpRide: Lightweight and Privacy- Preserving Ride Matching over Road Networks in Online Ride Hailing Systems. *IEEE Transactions on Vehicular Technology*, 68(11): 10418-10428, 2019.
+
+- Yinghui Zhang\*, **Jiangang Shu\***, Ximeng Liu, Jin Li, and Dong Zheng\*. Comments on “A Large-Scale Concurrent Data Anonymous Batch Verification Scheme for Mobile Healthcare Crowd Sensing”. *IEEE Internet of Things Journal*, 6(1): 1287-1290, 2019.
+
+- **Jiangang Shu**, Ximeng Liu, Xiaohua Jia, Kan Yang, and Robert H Deng. Anonymous Privacy-Preserving Task Matching in Crowdsourcing. *IEEE Internet of Things Journal*, 5(4): 3068-3078, 2018.
+
+- **Jiangang Shu**, Ximeng Liu, Yinghui Zhang, Xiaohua Jia, and Robert H Deng. Dual-side Privacy-Preserving Task Matching for Spatial Crowdsourcing. *Journal of Network and Computer Applications*, 123: 101-111, 2018.
+
+
+
+## Conference ##
+
+- Guoxi Zhang, **Jiangang Shu\*** and Xiaohua Jia. Optimized Client-Side Detection of Model Poisoning Attacks in Federated Learning. *IEEE HPCC 2022*.
+- Jijia Yang, **Jiangang Shu\***, Xiaohua Jia. Breaking Distributed Backdoor Defenses for Federated Learning in Non-IID Settings. *IEEE MSN 2022*. 
+- Xinying Liao, Jiaye Xue, Shengxing Yu, Ximeng Liu, and **Jiangang Shu**. SecMPNN: 3-Party - Privacy-Preserving Molecular Structure Properties Inference. *ICASSP 2022*. 
+- Yao Xiao, **Jiangang Shu\***, Xioahua Jia, Hejiao Huang. Clustered Federated Multi-Task Learning with Non-IID Data. *IEEE ICPADS 2021*. 
+- Rutao Yu, **Jiangang Shu\***, Dekai Yan, Xiaohua Jia. ReDetect: Reentrancy Vulnerability Detection in Smart Contracts with High Accuracy. *IEEE MSN 2021*. **Best Paper Award**
+- Lu Shi, Jiangang Shu, Weizhe Zhang, Yang Liu. HFL-DP: Hierarchical Federated Learning with Differential Privacy. *IEEE GLOBECOM 2021*.
+- Hongliang Zhou, Xiaohua Jia, Jiangang Shu, Lei Zhou. CoWatch: Collaborative Prediction of DDoS Attacks in Edge Computing with Distributed SDN. *IEEE GLOBECOM 2021*. 
+-Dekai Yan, Xiaohua Jia, Jiangang Shu, Rutao Yu. A Blockchain-based Database System for Decentralized Information Management. *IEEE GLOBECOM 2021*. 
+- Ying Zhou, **Jiangang Shu\***, Xiaoxiong Zhong, Xinseng Huang, Chenguang Luo, and Jianwen Ai. Oversampling Algorithm based on Reinforcement Learning in Imbalanced Problems. *IEEE GLOBECOM 2020*.  
+- **Jiangang Shu**, Ximeng Liu, Kan Yang, Yinghui Zhang, Xiaohua Jia, and Robert H Deng. SybMatch: Sybil Detection for Privacy-Preserving Task Matching in Crowdsourcing. *IEEE GLOBECOM 2018*. 
 
 # 🎖 Honors and Awards
 - *2024* 百人计划青年杰出人才，广州大学
