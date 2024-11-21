@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advanced Technology, Guangzhou Univerisity, Guangzhou, China. I obtained Ph.D. degree in Computer Science from City University of Hong Kong in Feb., 2019, supervised by Prof. <a href='https://www.cs.cityu.edu.hk/~jia/'>Xiaohua Jia</a> , M.Eng. degree in Computer Science and Technology under Prof. <a href='https://faculty.nuist.edu.cn/zhangjiefu/zh_CN/index.htm'>Zhangjie Fu</a>, and B.Eng. degree in Network Technology and Engineering from Nanjing University of Information Science &#38; Technology in 2015 and 2012, respectively. I have served as a Research Assistant at Singapore Management University under Prof. <a href='http://www.mysmu.edu/faculty/robertdeng/'>Robert H. Deng</a>, a Postdoctoral Fellow &#38; Associate Researcher at City University of Hong Kong, and an assitant Researcher &#38; Associate Researcher at Peng Cheng Laboratory. My research interest includes data &#38; AI security and privacy, applied cryptography, cloud computing & crowdsourcing security, network security. I have published more than 40 papers in international journals and conferences such as IEEE TDSC, TIFS, TPDS, TSC, TITS, IOTJ, and TCC, with one paper awarded the Best Paper Award at IEEE MSN 2021.
 
-**E-mail:** jiangangshu&#64;.com
+**E-mail:** jiangangshu&#64;gmail.com
 
 **招生：** 以高标准、严要求指导每一位学生进行高质量科研工作，发表顶尖学术论文为主，并将学术科研进行落地及应用。
 
