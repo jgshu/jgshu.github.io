@@ -109,3 +109,22 @@ computing. *IEEE Internet of Things Journal*, 11(2): 1866-1879, 2024.
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
+
+# Students 
+##Postgraduate Students##
+- Zhiping Hu, GZU 2024, Privacy-preserving computing
+- Bangquan Wang, GZU 2024, FL attacks
+- Xiangjie Long, GZU 2024, Zero-knowledge proof of FL, copyright protection
+- Xinling Fu, GZU 2024, FL unlearning
+- Kaiqi Wang, GZU 2023, FL defenses (together with Prof. Qingfen Tan)
+
+## Gruduates ##
+- Jijia Yang, HITSZ 2022, FL attacks (together with Prof. Xioahua Jia)
+- Guoxi Zhang, HITSZ 2022, FL attacks (together with Prof. Xioahua Jia)
+- Yao Xiao, HITSZ 2021, Personalized FL (together with Prof. Xioahua Jia) 
+- Lei Zhou, HITSZ 2021, Edge computing (together with Prof. Xioahua Jia)
+- Zhenqian Zhu, HITSZ 2021, FL attacks (together with Prof. Xioahua Jia)
+- Rutao Yu, HITSZ 2021, Blockchain security (together with Prof. Xioahua Jia)
+- Dekai Yan, HITSZ 2021, Blockchain information management (together with Prof. Xioahua Jia)
+- Songlei Wang, HITSZ 2020, Edged-based crowdsourcing privacy (together with Prof. Xioahua Jia)
+- Xing Zou, HITSZ 2020, Blockchain-based data auditing (together with Prof. Xioahua Jia)

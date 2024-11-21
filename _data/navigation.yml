@@ -11,6 +11,9 @@ main:
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+    
+  - title: "Students"
+    url: "/#-students"
 
  # - title: "Educations"
  #   url: "/#-educations"
@@ -22,3 +25,5 @@ main:
 
  # - title: "Internships"
  #  url: "/#-internships"
+
+   
