@@ -17,18 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advanced Technology, Guangzhou Univerisity, Guangzhou, China. I obtained Ph.D. degree in Computer Science from City University of Hong Kong (CityU) in Feb., 2019, supervised by Prof. <a href='https://www.cs.cityu.edu.hk/~jia/'>Xiaohua Jia</a> , M.Eng. degree in Computer Science and Technology under Prof. <a href='https://faculty.nuist.edu.cn/zhangjiefu/zh_CN/index.htm'>Zhangjie Fu</a>, and B.Eng. degree in Network Technology and Engineering from Nanjing University of Information Science &#38; Technology in 2015 and 2012, respectively. I have served as a Research Assistant at Singapore Management University under Prof. <a href='http://www.mysmu.edu/faculty/robertdeng/'>Robert H. Deng</a>, a Postdoctoral Fellow &#38; Associate Researcher at City University of Hong Kong, and an assitant Researcher &#38; Associate Researcher at Peng Cheng Laboratory.
+I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advanced Technology, Guangzhou Univerisity, Guangzhou, China. I obtained Ph.D. degree in Computer Science from City University of Hong Kong (CityU) in Feb., 2019, supervised by Prof. <a href='https://www.cs.cityu.edu.hk/~jia/'>Xiaohua Jia</a> , M.Eng. degree in Computer Science and Technology under Prof. <a href='https://faculty.nuist.edu.cn/zhangjiefu/zh_CN/index.htm'>Zhangjie Fu</a>, and B.Eng. degree in Network Technology and Engineering from Nanjing University of Information Science &#38; Technology in 2015 and 2012, respectively. I have served as a Research Assistant at Singapore Management University under Prof. <a href='http://www.mysmu.edu/faculty/robertdeng/'>Robert H. Deng</a>, a Postdoctoral Fellow &#38; Associate Researcher at City University of Hong Kong, and an assitant Researcher &#38; Associate Researcher at Peng Cheng Laboratory. My research interest includes data &#38; AI security and privacy, applied cryptography, cloud computing & crowdsourcing security, network security. I have published more than 40 papers in international journals and conferences such as IEEE TDSC, TIFS, TPDS, TSC, TITS, IOTJ, and TCC, with one paper awarded the Best Paper Award at IEEE MSN 2021.
 
 
-My research interest includes data &#38; AI security and privacy, applied cryptography, cloud computing & crowdsourcing security, network security. I have published more than 40 papers in international journals and conferences such as IEEE TDSC, TIFS, TPDS, TSC, TITS, IOTJ, and TCC, with one paper awarded the Best Paper Award at IEEE MSN 2021.
 
-<font color='red'> 
-**研究生招生：2025年，将在广州大学招收1名学术博士（网上申请时间为：2024.12月-2025.2月）和4名硕士研究生，请有意向的学生尽快联系我，并将个人CV发我邮箱。**
-</font>
 
-**本科生招生**：
+**招生**：以高标准、严要求指导每一位学生进行高质量科研工作，发表顶尖学术论文为主，并将学术科研进行落地及应用。
 
-常年招募优秀本科生，要求学习积极、态度端正、深造意愿强烈。课题组已成立了一只本科生科研团队，每周定期召开研讨会，以高标准、严要求指导每一位本科学进行高质量科研工作，发表顶尖学术论文为主，并将学术科研进行落地及应用。成果优异的同学，会积极向国内外高校进行推荐。
+- <font color='red'> 2025年，将招收1名学术博士研究生（网申时间为：2024.12月-2025.2月）和4名硕士研究生，请有意向的学生尽快联系我，并将个人CV发我邮箱。要求：学习态度端正，计算机理论和代码能力扎实，对科研要有热情，硕士研究生若有读博意向的优先。</font> 
+
+- 每年招收少量的优秀本科生（主要面向大一、大二），课题组已成立了一只本科生科研团队，每周定期召开研讨会，指导学生进行科研。成果优异的同学，会积极向国内外高校进行推荐。要求：学习积极、态度端正、深造意愿强烈、能长时间坚持（请认真评估自己）。
 
 **当前研究方向：**
 
