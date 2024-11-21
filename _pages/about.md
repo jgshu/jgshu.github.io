@@ -110,8 +110,7 @@ computing. *IEEE Internet of Things Journal*, 11(2): 1866-1879, 2024.
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
 
-# Students 
-
+# 📖 Students 
 ## Postgraduate Students ##
 - Zhiping Hu, GZU 2024, Privacy-preserving computing
 - Bangquan Wang, GZU 2024, FL attacks
