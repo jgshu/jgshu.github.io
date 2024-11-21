@@ -52,6 +52,8 @@ An A3C-based approach. *IEEE Internet of Things Journal*, 11(2): 1854-1865, 2024
 optimizer metaheuristics for scheduling crowdsourcing applications in mobile edge 
 computing. *IEEE Internet of Things Journal*, 11(2): 1866-1879, 2024.
 
+- Hongliang Zhou, Yifeng Zheng, Hejiao Huang, **Jiangang Shu**, and Xiaohua Jia. Toward Robust Hierarchical Federated Learning in Internet of Vehicles. *IEEE Transactions on Intelligent Transportation Systems*, 24(5): 5600-5614, 2023.
+
 - **Jiangang Shu**, Tingting Yang, Xinying Liao, Farong Chen, Yao Xiao, Kan Yang, and Xiaohua Jia. Clustered Federated Multi-Task Learning on Non-IID Data with Enhanced Privacy. *IEEE Internet of Things Journal*, 10(4): 3453-3467, 2023.
 
 - Kan Yang\*, **Jiangang Shu\***, and Ruitao Xie. Efficient and Provably Secure Data Selective Sharing and Acquisition in Cloud-based Systems. *IEEE Transactions on Information Forensics and Security*, 18: 71-84, 2022.
