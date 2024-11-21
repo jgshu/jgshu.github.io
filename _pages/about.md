@@ -78,8 +78,8 @@ computing. *IEEE Internet of Things Journal*, 11(2): 1866-1879, 2024.
 - Xinying Liao, Jiaye Xue, Shengxing Yu, Ximeng Liu, and **Jiangang Shu**. SecMPNN: 3-Party - Privacy-Preserving Molecular Structure Properties Inference. *ICASSP 2022*. 
 - Yao Xiao, **Jiangang Shu\***, Xioahua Jia, Hejiao Huang. Clustered Federated Multi-Task Learning with Non-IID Data. *IEEE ICPADS 2021*. 
 - Rutao Yu, **Jiangang Shu\***, Dekai Yan, Xiaohua Jia. ReDetect: Reentrancy Vulnerability Detection in Smart Contracts with High Accuracy. *IEEE MSN 2021*. **Best Paper Award**
-- Lu Shi, Jiangang Shu, Weizhe Zhang, Yang Liu. HFL-DP: Hierarchical Federated Learning with Differential Privacy. *IEEE GLOBECOM 2021*.
-- Hongliang Zhou, Xiaohua Jia, Jiangang Shu, Lei Zhou. CoWatch: Collaborative Prediction of DDoS Attacks in Edge Computing with Distributed SDN. *IEEE GLOBECOM 2021*. 
+- Lu Shi, **Jiangang Shu**, Weizhe Zhang, Yang Liu. HFL-DP: Hierarchical Federated Learning with Differential Privacy. *IEEE GLOBECOM 2021*.
+- Hongliang Zhou, Xiaohua Jia, **Jiangang Shu**, Lei Zhou. CoWatch: Collaborative Prediction of DDoS Attacks in Edge Computing with Distributed SDN. *IEEE GLOBECOM 2021*. 
 -Dekai Yan, Xiaohua Jia, Jiangang Shu, Rutao Yu. A Blockchain-based Database System for Decentralized Information Management. *IEEE GLOBECOM 2021*. 
 - Ying Zhou, **Jiangang Shu\***, Xiaoxiong Zhong, Xinseng Huang, Chenguang Luo, and Jianwen Ai. Oversampling Algorithm based on Reinforcement Learning in Imbalanced Problems. *IEEE GLOBECOM 2020*.  
 - **Jiangang Shu**, Ximeng Liu, Kan Yang, Yinghui Zhang, Xiaohua Jia, and Robert H Deng. SybMatch: Sybil Detection for Privacy-Preserving Task Matching in Crowdsourcing. *IEEE GLOBECOM 2018*. 
