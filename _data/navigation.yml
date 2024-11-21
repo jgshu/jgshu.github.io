@@ -15,8 +15,8 @@ main:
   - title: "Students"
     url: "/#-students"
 
-  - title: "Educations"
-    url: "/#-educations"
+ # - title: "Educations"
+ #  url: "/#-educations"
 
 
  # - title: "Invited Talks"
