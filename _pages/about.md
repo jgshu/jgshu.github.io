@@ -29,7 +29,7 @@ My research interest includes data & AI security and privacy, applied cryptograp
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -44,8 +44,13 @@ My research interest includes data & AI security and privacy, applied cryptograp
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* 百人计划，广州大学
+- *2022* 广东省重大人才工程—青年人才, 广东省
+- *2020* 年度先进个人, 鹏城实验室
+- *2019* 海外高层次C类人才, 深圳市
+- *2021* Best Paper Award, MSN 2021, Exeter, United Kingdom
+- *2018* Excellent Research Award, The 14th International Conference of ADMA, Nanjing
+- *2017* Outstanding Poster Award, Department of CS, City University of Hong Kong, Hong Kong
 
 /*
 # 📖 Educations
