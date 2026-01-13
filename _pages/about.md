@@ -23,7 +23,7 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 
 **招生：** 以高标准、严要求指导每一位学生进行高质量科研工作，发表顶尖学术论文为主，并将学术科研进行落地及应用。
 
-- <font color='red'> 2025年，将招收1名学术博士研究生（网申时间为：2024.12月-2025.2月）和4名硕士研究生，请有意向的学生尽快联系我，并将个人CV发我邮箱。要求：学习态度端正，计算机理论和代码能力扎实，对科研要有热情，硕士研究生若有读博意向的优先。</font> 
+- <font color='red'> 2026年，将招收1名学术博士研究生（网申时间为：2025.12月-2026.2月底）和3-4名硕士研究生，请有意向的学生尽快联系我，并将个人CV发我邮箱。要求：学习态度端正，计算机理论和代码能力扎实，对科研要有热情，硕士研究生若有读博意向的优先。</font> 
 
 - 每年招收少量的优秀本科生（主要面向大一至大三），课题组已成立了一只本科生科研团队，每周定期召开研讨会，指导学生进行科研。成果优异的同学，会积极向国内外高校进行推荐。要求：学习积极、态度端正、深造意愿强烈、能长时间坚持（请认真评估自己）。
 
@@ -31,9 +31,9 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 
 - 数据安全与隐私计算：数据安全分析（隐私计算）、数据安全交易等
 - 人工智能安全：联邦学习攻防、模型版权保护、可证明联邦学习、联邦遗忘学习等
-- 面向新领域、新技术的攻防检测：新型网络、区块链、机密计算等
+- 大模型安全风险评测研发
+- 网络安全-四密研发
 - 数据基础制度建设：数据产权、流通交易、收益分配、安全治理等
-- 其他网络通信与数据安全方向
 
 
 <!--
@@ -44,18 +44,16 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 
 # 📝 Publications 
 ## Journals ##
+- **Jiangang Shu**, Zhiping Hu, Fuyi Wang, Yuyu He, Hui Lu, Zhihong Tian. A Trustworthy Federated Learning Framework for Joint Privacy and Byzantine Resilience. *IEEE Internet of Things Journal*, 2026, doi: 10.1109/JIOT.2026.3651363.
+- Fuyi Wang, Fangyuan Sun, Mingyuan Fan, Jianying Zhou, Jin Ma, Chao Chen, **Jiangang Shu\**, Leo Yu Zhang. FLAME: Flexible and Lightweight Biometric Authentication Scheme in Malicious Environments. Accepted to ACSAC'25.
 - Minghui Min, Haopeng Zhu, Shuang Yang, Junhuai Xu, Jingwen Tong, Shiyin Li, and 
-**Jiangang Shu\***. Geo-perturbation for task allocation in 3D mobile crowdsourcing: 
-An A3C-based approach. *IEEE Internet of Things Journal*, 11(2): 1854-1865, 2024.
-
+  **Jiangang Shu\***. Geo-perturbation for task allocation in 3D mobile crowdsourcing: 
+  An A3C-based approach. *IEEE Internet of Things Journal*, 11(2): 1854-1865, 2024.
 - Zhichao Lian, **Jiangang Shu\***, Yi Zhang, and Jin Sun. Convergent grey wolf 
-optimizer metaheuristics for scheduling crowdsourcing applications in mobile edge 
-computing. *IEEE Internet of Things Journal*, 11(2): 1866-1879, 2024.
-
+  optimizer metaheuristics for scheduling crowdsourcing applications in mobile edge 
+  computing. *IEEE Internet of Things Journal*, 11(2): 1866-1879, 2024.
 - Hongliang Zhou, Yifeng Zheng, Hejiao Huang, **Jiangang Shu**, and Xiaohua Jia. Toward Robust Hierarchical Federated Learning in Internet of Vehicles. *IEEE Transactions on Intelligent Transportation Systems*, 24(5): 5600-5614, 2023.
-
 - **Jiangang Shu**, Tingting Yang, Xinying Liao, Farong Chen, Yao Xiao, Kan Yang, and Xiaohua Jia. Clustered Federated Multi-Task Learning on Non-IID Data with Enhanced Privacy. *IEEE Internet of Things Journal*, 10(4): 3453-3467, 2023.
-
 - Kan Yang\*, **Jiangang Shu\***, and Ruitao Xie. Efficient and Provably Secure Data Selective Sharing and Acquisition in Cloud-based Systems. *IEEE Transactions on Information Forensics and Security*, 18: 71-84, 2022.
 
 
@@ -128,6 +126,9 @@ computing. *IEEE Internet of Things Journal*, 11(2): 1866-1879, 2024.
 
 # 📖 Students 
 ## Postgraduate Students ##
+- Mingjun Tang, GZU 2025,
+- Zecheng Wu, GZU 2025,
+- Sijia Gong, GZU 2025,
 - Zhiping Hu, GZU 2024, Privacy-preserving computing
 - Bangquan Wang, GZU 2024, FL attacks
 - Xiangjie Long, GZU 2024, Zero-knowledge proof of FL, copyright protection
