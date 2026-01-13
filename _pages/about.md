@@ -125,10 +125,15 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 -->
 
 # 📖 Students 
+## Phd Students
+
+- Liqiu Chen,   GZU 2025, Applied Crypto
+
 ## Postgraduate Students ##
-- Mingjun Tang, GZU 2025,
-- Zecheng Wu, GZU 2025,
-- Sijia Gong, GZU 2025,
+
+- Mingjun Tang, GZU 2025, LLM
+- Zecheng Wu, GZU 2025,  Network Security
+- Sijia Gong, GZU 2025, Applied Crypto
 - Zhiping Hu, GZU 2024, Privacy-preserving computing
 - Bangquan Wang, GZU 2024, FL attacks
 - Xiangjie Long, GZU 2024, Zero-knowledge proof of FL, copyright protection
