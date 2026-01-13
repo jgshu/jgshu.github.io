@@ -45,7 +45,7 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 # 📝 Publications 
 ## Journals ##
 - **Jiangang Shu**, Zhiping Hu, Fuyi Wang, Yuyu He, Hui Lu, Zhihong Tian. A Trustworthy Federated Learning Framework for Joint Privacy and Byzantine Resilience. *IEEE Internet of Things Journal*, 2026, doi: 10.1109/JIOT.2026.3651363.
-- Fuyi Wang, Fangyuan Sun, Mingyuan Fan, Jianying Zhou, Jin Ma, Chao Chen, **Jiangang Shu\**, Leo Yu Zhang. FLAME: Flexible and Lightweight Biometric Authentication Scheme in Malicious Environments. Accepted to ACSAC'25.
+- Fuyi Wang, Fangyuan Sun, Mingyuan Fan, Jianying Zhou, Jin Ma, Chao Chen, **Jiangang Shu**, Leo Yu Zhang. FLAME: Flexible and Lightweight Biometric Authentication Scheme in Malicious Environments. Accepted to ACSAC'25.
 - Minghui Min, Haopeng Zhu, Shuang Yang, Junhuai Xu, Jingwen Tong, Shiyin Li, and 
   **Jiangang Shu\***. Geo-perturbation for task allocation in 3D mobile crowdsourcing: 
   An A3C-based approach. *IEEE Internet of Things Journal*, 11(2): 1854-1865, 2024.
