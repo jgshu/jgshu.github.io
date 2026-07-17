@@ -29,7 +29,7 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 
 **当前研究方向：**
 
-- 数据安全与隐私计算：数据安全分析（隐私计算）、数据安全交易
+- 数据安全与隐私计算
 - 人工智能安全：联邦学习安全、模型版权保护、遗忘学习
 - 大模型安全风险评测及智能体安全
 - 网络安全-密阵智能体（跨智能体的协同联动与欺骗策略演化）
