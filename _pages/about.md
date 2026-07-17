@@ -126,9 +126,9 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 # 📖 Students 
 ## Phd Students
 
-- Liqiu Chen,   GZU 2025, Applied Crypto
 - Mengshi Qi,  GZU 2026, AI Security
 - Nian Liu, GZU 2026, Applied Crypto
+- Liqiu Chen,   GZU 2025, Applied Crypto
 
 ## Postgraduate Students ##
 
