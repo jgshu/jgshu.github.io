@@ -139,9 +139,9 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 - Bangquan Wang, GZU 2024, FL attacks
 - Xiangjie Long, GZU 2024, Zero-knowledge proof of FL, copyright protection
 - Xinglin Fu, GZU 2024, FL unlearning
-- Kaiqi Wang, GZU 2023, FL defenses (together with Prof. Qingfen Tan)
 
 ## Gruduates ##
+- Kaiqi Wang, GZU 2023, FL defenses (together with Prof. Qingfen Tan)
 - Jijia Yang, HITSZ 2022, FL attacks (together with Prof. Xioahua Jia). Phd student at CtyU of HK
 - Guoxi Zhang, HITSZ 2022, FL attacks (together with Prof. Xioahua Jia)
 - Yao Xiao, HITSZ 2021, Personalized FL (together with Prof. Xioahua Jia) 
