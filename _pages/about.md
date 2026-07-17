@@ -127,7 +127,7 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 ## Phd Students
 
 - Liqiu Chen,   GZU 2025, Applied Crypto
-- Mengshi Qi,  GZU 2026, Contribution Security
+- Mengshi Qi,  GZU 2026, AI Security
 - Nian liu, GZU 2026, Applied Crypto
 
 ## Postgraduate Students ##
@@ -137,7 +137,7 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 - Sijia Gong, GZU 2025, Applied Crypto
 - Zhiping Hu, GZU 2024, Privacy-preserving computing
 - Bangquan Wang, GZU 2024, FL attacks
-- Xiangjie Long, GZU 2024, Zero-knowledge proof of FL, copyright protection
+- Xiangjie Long, GZU 2024, Copyright protection
 - Xinglin Fu, GZU 2024, FL unlearning
 
 ## Gruduates ##
