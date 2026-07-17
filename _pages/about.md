@@ -23,17 +23,16 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 
 **招生：** 以高标准、严要求指导每一位学生进行高质量科研工作，发表顶尖学术论文为主，并将学术科研进行落地及应用。
 
-- <font color='red'> 2026年，将招收1名学术博士研究生（网申时间为：2025.12月-2026.2月底）和3-4名硕士研究生，请有意向的学生尽快联系我，并将个人CV发我邮箱。要求：学习态度端正，计算机理论和代码能力扎实，对科研要有热情，硕士研究生若有读博意向的优先。</font> 
+- <font color='red'> 2027年，将招收1名博士研究生（网申时间为：2026.12月-2027.2月底）和3-4名硕士研究生，请有意向的学生尽快联系我，并将个人CV发我邮箱。要求：学习态度端正，计算机理论和代码能力扎实，对科研要有热情，硕士研究生若有读博意向的优先。</font> 
 
 - 每年招收少量的优秀本科生（主要面向大一至大三），课题组已成立了一只本科生科研团队，每周定期召开研讨会，指导学生进行科研。成果优异的同学，会积极向国内外高校进行推荐。要求：学习积极、态度端正、深造意愿强烈、能长时间坚持（请认真评估自己）。
 
 **当前研究方向：**
 
-- 数据安全与隐私计算：数据安全分析（隐私计算）、数据安全交易等
-- 人工智能安全：联邦学习攻防、模型版权保护、可证明联邦学习、联邦遗忘学习等
-- 大模型安全风险评测研发
-- 网络安全-四密研发
-- 数据基础制度建设：数据产权、流通交易、收益分配、安全治理等
+- 数据安全与隐私计算：数据安全分析（隐私计算）、数据安全交易
+- 人工智能安全：联邦学习安全、模型版权保护、遗忘学习
+- 大模型安全风险评测及智能体安全
+- 网络安全-密阵智能体（跨智能体的协同联动与欺骗策略演化）
 
 
 <!--
@@ -128,6 +127,8 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 ## Phd Students
 
 - Liqiu Chen,   GZU 2025, Applied Crypto
+- Mengshi QI,  GZU 2026, Contribution Security
+- Ni liu, GZU 2026, Applied Crypto
 
 ## Postgraduate Students ##
 
@@ -150,3 +151,4 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 - Dekai Yan, HITSZ 2021, Blockchain information management (together with Prof. Xioahua Jia)
 - Songlei Wang, HITSZ 2020, Edged-based crowdsourcing privacy (together with Prof. Xioahua Jia). Phd student at HITSZ
 - Xing Zou, HITSZ 2020, Blockchain-based data auditing (together with Prof. Xioahua Jia). Engernieer at Peng Cheng Lab
+
