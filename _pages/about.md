@@ -29,8 +29,8 @@ I am currently a Professor &#38; PhD Supervisor in Cyberspace Institute of Advan
 
 **当前三大研究方向：**
 
-- 密码学方向：数据安全与隐私计算、动态AI系统安全（MoE、Reasoning LLM、Agent等）
 - 智能安全方向：联邦学习安全、遗忘学习、大模型安全评测、智能体安全、模型版权保护
+- 密码学方向：数据安全与隐私计算、动态AI系统安全（MoE、Reasoning LLM、Agent等）
 - 网络安全方向：密阵智能体（跨智能体的协同联动与防御策略演化）
 
 
